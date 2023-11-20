@@ -1,0 +1,7 @@
+C:\Users\kpava\source\Assignments\Nov17\ConAppAS15\ConAppAS15\bin\Debug\ConAppAS15.exe.config
+C:\Users\kpava\source\Assignments\Nov17\ConAppAS15\ConAppAS15\bin\Debug\ConAppAS15.exe
+C:\Users\kpava\source\Assignments\Nov17\ConAppAS15\ConAppAS15\bin\Debug\ConAppAS15.pdb
+C:\Users\kpava\source\Assignments\Nov17\ConAppAS15\ConAppAS15\obj\Debug\ConAppAS15.csproj.AssemblyReference.cache
+C:\Users\kpava\source\Assignments\Nov17\ConAppAS15\ConAppAS15\obj\Debug\ConAppAS15.csproj.CoreCompileInputs.cache
+C:\Users\kpava\source\Assignments\Nov17\ConAppAS15\ConAppAS15\obj\Debug\ConAppAS15.exe
+C:\Users\kpava\source\Assignments\Nov17\ConAppAS15\ConAppAS15\obj\Debug\ConAppAS15.pdb
