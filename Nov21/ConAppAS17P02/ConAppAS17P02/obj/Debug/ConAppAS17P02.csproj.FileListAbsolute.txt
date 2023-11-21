@@ -1,0 +1,7 @@
+C:\Users\kpava\source\Assignments\Nov21\ConAppAS17P02\ConAppAS17P02\obj\Debug\ConAppAS17P02.csproj.AssemblyReference.cache
+C:\Users\kpava\source\Assignments\Nov21\ConAppAS17P02\ConAppAS17P02\obj\Debug\ConAppAS17P02.csproj.CoreCompileInputs.cache
+C:\Users\kpava\source\Assignments\Nov21\ConAppAS17P02\ConAppAS17P02\bin\Debug\ConAppAS17P02.exe.config
+C:\Users\kpava\source\Assignments\Nov21\ConAppAS17P02\ConAppAS17P02\bin\Debug\ConAppAS17P02.exe
+C:\Users\kpava\source\Assignments\Nov21\ConAppAS17P02\ConAppAS17P02\bin\Debug\ConAppAS17P02.pdb
+C:\Users\kpava\source\Assignments\Nov21\ConAppAS17P02\ConAppAS17P02\obj\Debug\ConAppAS17P02.exe
+C:\Users\kpava\source\Assignments\Nov21\ConAppAS17P02\ConAppAS17P02\obj\Debug\ConAppAS17P02.pdb
