@@ -1,0 +1,7 @@
+C:\Users\kpava\source\assignments\nov27\ConAppAS21P01\ConAppAS21P01\obj\Debug\ConAppAS21P01.csproj.AssemblyReference.cache
+C:\Users\kpava\source\assignments\nov27\ConAppAS21P01\ConAppAS21P01\obj\Debug\ConAppAS21P01.csproj.CoreCompileInputs.cache
+C:\Users\kpava\source\assignments\nov27\ConAppAS21P01\ConAppAS21P01\bin\Debug\ConAppAS21P01.exe.config
+C:\Users\kpava\source\assignments\nov27\ConAppAS21P01\ConAppAS21P01\bin\Debug\ConAppAS21P01.exe
+C:\Users\kpava\source\assignments\nov27\ConAppAS21P01\ConAppAS21P01\bin\Debug\ConAppAS21P01.pdb
+C:\Users\kpava\source\assignments\nov27\ConAppAS21P01\ConAppAS21P01\obj\Debug\ConAppAS21P01.exe
+C:\Users\kpava\source\assignments\nov27\ConAppAS21P01\ConAppAS21P01\obj\Debug\ConAppAS21P01.pdb

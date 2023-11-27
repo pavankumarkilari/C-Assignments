@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAppAS21P02", "ConAppAS21P02\ConAppAS21P02.csproj", "{47BD6101-11D7-47DF-87CB-0B23F5F4BB52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47BD6101-11D7-47DF-87CB-0B23F5F4BB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BD6101-11D7-47DF-87CB-0B23F5F4BB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BD6101-11D7-47DF-87CB-0B23F5F4BB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BD6101-11D7-47DF-87CB-0B23F5F4BB52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {639AEE58-EDD7-4280-87CE-73002166B53B}
+	EndGlobalSection
+EndGlobal
