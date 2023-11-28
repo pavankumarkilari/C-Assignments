@@ -1,0 +1,7 @@
+C:\Users\kpava\source\Assignments\Nov28\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\kpava\source\Assignments\Nov28\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\kpava\source\Assignments\Nov28\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\kpava\source\Assignments\Nov28\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\kpava\source\Assignments\Nov28\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\kpava\source\Assignments\Nov28\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\kpava\source\Assignments\Nov28\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
