@@ -1,0 +1,7 @@
+C:\Users\kpava\source\Assignments\Nov29\ConAppAS23\ConAppAS23\bin\Debug\ConAppAS23.exe.config
+C:\Users\kpava\source\Assignments\Nov29\ConAppAS23\ConAppAS23\bin\Debug\ConAppAS23.exe
+C:\Users\kpava\source\Assignments\Nov29\ConAppAS23\ConAppAS23\bin\Debug\ConAppAS23.pdb
+C:\Users\kpava\source\Assignments\Nov29\ConAppAS23\ConAppAS23\obj\Debug\ConAppAS23.csproj.AssemblyReference.cache
+C:\Users\kpava\source\Assignments\Nov29\ConAppAS23\ConAppAS23\obj\Debug\ConAppAS23.csproj.CoreCompileInputs.cache
+C:\Users\kpava\source\Assignments\Nov29\ConAppAS23\ConAppAS23\obj\Debug\ConAppAS23.exe
+C:\Users\kpava\source\Assignments\Nov29\ConAppAS23\ConAppAS23\obj\Debug\ConAppAS23.pdb
