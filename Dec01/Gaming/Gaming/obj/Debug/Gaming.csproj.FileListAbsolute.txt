@@ -1,0 +1,10 @@
+C:\Users\kpava\source\Assignments\Dec01\Gaming\Gaming\bin\Debug\Gaming.exe.config
+C:\Users\kpava\source\Assignments\Dec01\Gaming\Gaming\bin\Debug\Gaming.exe
+C:\Users\kpava\source\Assignments\Dec01\Gaming\Gaming\bin\Debug\Gaming.pdb
+C:\Users\kpava\source\Assignments\Dec01\Gaming\Gaming\bin\Debug\GamingLibrary.dll
+C:\Users\kpava\source\Assignments\Dec01\Gaming\Gaming\bin\Debug\GamingLibrary.pdb
+C:\Users\kpava\source\Assignments\Dec01\Gaming\Gaming\obj\Debug\Gaming.csproj.AssemblyReference.cache
+C:\Users\kpava\source\Assignments\Dec01\Gaming\Gaming\obj\Debug\Gaming.csproj.CoreCompileInputs.cache
+C:\Users\kpava\source\Assignments\Dec01\Gaming\Gaming\obj\Debug\Gaming.csproj.CopyComplete
+C:\Users\kpava\source\Assignments\Dec01\Gaming\Gaming\obj\Debug\Gaming.exe
+C:\Users\kpava\source\Assignments\Dec01\Gaming\Gaming\obj\Debug\Gaming.pdb

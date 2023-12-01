@@ -1,0 +1,6 @@
+C:\Users\kpava\source\Assignments\Dec01\GamingLibrary\GamingLibrary\bin\Debug\GamingLibrary.dll
+C:\Users\kpava\source\Assignments\Dec01\GamingLibrary\GamingLibrary\bin\Debug\GamingLibrary.pdb
+C:\Users\kpava\source\Assignments\Dec01\GamingLibrary\GamingLibrary\obj\Debug\GamingLibrary.csproj.AssemblyReference.cache
+C:\Users\kpava\source\Assignments\Dec01\GamingLibrary\GamingLibrary\obj\Debug\GamingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kpava\source\Assignments\Dec01\GamingLibrary\GamingLibrary\obj\Debug\GamingLibrary.dll
+C:\Users\kpava\source\Assignments\Dec01\GamingLibrary\GamingLibrary\obj\Debug\GamingLibrary.pdb
